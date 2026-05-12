@@ -45,4 +45,10 @@ Collection of sorting, searching and problem-solving programs.
 
 ---
 
-⭐ Always learning and building new things.
+⭐ ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Umesh-08&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-08&layout=compact&theme=tokyonight" />
+</p>
