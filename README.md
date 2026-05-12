@@ -47,8 +47,8 @@ Collection of sorting, searching and problem-solving programs.
 
 ⭐ ## 📊 GitHub Stats
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Umesh-08&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-08&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Umesh-08&theme=tokyonight" />
 </p>
