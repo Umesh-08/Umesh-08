@@ -13,11 +13,9 @@
 ---
 
 ## 🛠️ Skills
-- C
-- C++
-- Java
-- OOPs
-- Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode,html,css" />
+</p>
 
 ---
 
