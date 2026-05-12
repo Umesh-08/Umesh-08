@@ -1,8 +1,6 @@
 # Hi, I'm Umesh Kumar 👋
-
-🎓 MCA Student | Aspiring Software Developer  
-
-💻 Passionate about Programming, DSA and Java Development  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Future+Software+Engineer" /> 
+ 
 
 ---
 
