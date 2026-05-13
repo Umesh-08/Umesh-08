@@ -41,11 +41,13 @@ Collection of sorting, searching and problem-solving programs.
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Umesh-08
-
+- GitHub: [Umesh-08](https://github.com/Umesh-08)
+- LinkedIn: [Umesh Kumar](https://www.linkedin.com/in/umesh-kumar-0076bb242/)
 ---
 
-⭐ ## 📊 GitHub Stats
+## 📈 GitHub Stats
+
+![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umesh-08&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
